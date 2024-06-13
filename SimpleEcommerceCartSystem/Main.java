@@ -348,7 +348,7 @@ public class Main {
         } else if (totalBill > 5000) {
             currentUser.setDiscountStrategy(new FreeShippingDiscount());
         } else {
-            currentUser.setDiscountStrategy(new BuyOneGetOneFreeDiscount());
+            currentUser.setDiscountStrategy(new NoDiscount());
         }
         return currentUser.applyDiscount(totalBill);
     }
