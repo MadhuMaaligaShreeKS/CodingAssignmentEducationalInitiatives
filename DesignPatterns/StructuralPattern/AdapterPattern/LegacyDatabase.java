@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.StructuralPattern.AdapterPattern;
+package CodingAssignment__.DesignPatterns.StructuralPattern.AdapterPattern;
 
 import java.util.logging.Logger;
 
