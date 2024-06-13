@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.CreationalPattern.SingletonPattern;
+package CodingAssignment__.DesignPatterns.CreationalPattern.SingletonPattern;
 
 import java.util.logging.*;
 

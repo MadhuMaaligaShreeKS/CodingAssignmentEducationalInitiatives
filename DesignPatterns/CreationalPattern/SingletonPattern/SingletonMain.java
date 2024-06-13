@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.CreationalPattern.SingletonPattern;
+package CodingAssignment__.DesignPatterns.CreationalPattern.SingletonPattern;
 
 public class SingletonMain {
     public static void main(String[] args) {

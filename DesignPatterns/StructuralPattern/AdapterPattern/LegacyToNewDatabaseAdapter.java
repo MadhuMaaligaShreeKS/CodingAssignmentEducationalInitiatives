@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.StructuralPattern.AdapterPattern;
+package CodingAssignment__.DesignPatterns.StructuralPattern.AdapterPattern;
 
 class LegacyToNewDatabaseAdapter implements Database {
     private final Database legacyDatabase;

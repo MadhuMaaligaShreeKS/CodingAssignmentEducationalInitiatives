@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.SimpleEcommerceCartSystem;
+package CodingAssignment__.SimpleEcommerceCartSystem;
 
 class Product implements Cloneable {
     private String name;

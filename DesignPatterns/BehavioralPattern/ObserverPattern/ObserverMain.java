@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.BehavioralPattern.ObserverPattern;
+package CodingAssignment__.DesignPatterns.BehavioralPattern.ObserverPattern;
 
 public class ObserverMain {
     public static void main(String[] args) {

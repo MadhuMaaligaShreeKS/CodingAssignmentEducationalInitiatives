@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.CreationalPattern.BuilderPattern;
+package CodingAssignment__.DesignPatterns.CreationalPattern.BuilderPattern;
 
 public class BuilderMain {
     public static void main(String[] args) {

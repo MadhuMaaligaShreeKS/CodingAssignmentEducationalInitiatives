@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.CreationalPattern.BuilderPattern;
+package CodingAssignment__.DesignPatterns.CreationalPattern.BuilderPattern;
 import java.util.StringJoiner;
 class WhereClauseBuilder implements WhereBuilder {
     private StringJoiner query;

@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.StructuralPattern.FacadePattern;
+package CodingAssignment__.DesignPatterns.StructuralPattern.FacadePattern;
 
 public class Facade {
     public static void main(String[] args) {

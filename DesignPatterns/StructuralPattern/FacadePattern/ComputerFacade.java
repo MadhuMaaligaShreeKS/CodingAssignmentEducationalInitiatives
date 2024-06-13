@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.StructuralPattern.FacadePattern;
+package CodingAssignment__.DesignPatterns.StructuralPattern.FacadePattern;
 
 class ComputerFacade {
     private CPU cpu;

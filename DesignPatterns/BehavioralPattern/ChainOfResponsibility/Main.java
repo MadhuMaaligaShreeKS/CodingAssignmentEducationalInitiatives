@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.BehavioralPattern.ChainOfResponsibility;
+package CodingAssignment__.DesignPatterns.BehavioralPattern.ChainOfResponsibility;
 
 public class Main {
     public static void main(String[] args) {

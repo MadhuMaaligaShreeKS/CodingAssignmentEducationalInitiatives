@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.BehavioralPattern.ChainOfResponsibility;
+package CodingAssignment__.DesignPatterns.BehavioralPattern.ChainOfResponsibility;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 

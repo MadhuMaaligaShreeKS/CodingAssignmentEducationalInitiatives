@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.BehavioralPattern.ObserverPattern;
+package CodingAssignment__.DesignPatterns.BehavioralPattern.ObserverPattern;
 
 class TextDisplay implements StockObserver {
     @Override

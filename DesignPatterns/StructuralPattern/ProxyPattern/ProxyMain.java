@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.StructuralPattern.ProxyPattern;
+package CodingAssignment__.DesignPatterns.StructuralPattern.ProxyPattern;
 
 public class ProxyMain {
     public static void main(String[] args) {

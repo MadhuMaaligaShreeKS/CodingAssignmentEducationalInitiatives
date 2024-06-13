@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.CreationalPattern.BuilderPattern;
+package CodingAssignment__.DesignPatterns.CreationalPattern.BuilderPattern;
 
 interface WhereBuilder {
     WhereBuilder addWhereCondition(String condition);

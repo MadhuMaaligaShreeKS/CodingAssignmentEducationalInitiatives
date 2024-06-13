@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.SimpleEcommerceCartSystem;
+package CodingAssignment__.SimpleEcommerceCartSystem;
 
 class CartItem {
     private Product product;

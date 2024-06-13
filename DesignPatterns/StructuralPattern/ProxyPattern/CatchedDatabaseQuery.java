@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.StructuralPattern.ProxyPattern;
+package CodingAssignment__.DesignPatterns.StructuralPattern.ProxyPattern;
 import java.util.HashMap;
 import java.util.Map;
 

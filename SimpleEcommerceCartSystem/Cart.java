@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.SimpleEcommerceCartSystem;
+package CodingAssignment__.SimpleEcommerceCartSystem;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;

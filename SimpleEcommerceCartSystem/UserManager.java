@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.SimpleEcommerceCartSystem;
+package CodingAssignment__.SimpleEcommerceCartSystem;
 import java.util.ArrayList;
 import java.util.List;
 class UserManager {

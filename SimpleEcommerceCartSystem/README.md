@@ -1,4 +1,3 @@
-# CodingAssignmentEducationalInitiatives
 
 **Shopping Cart System**<br/>
 **Purpose**<br/>

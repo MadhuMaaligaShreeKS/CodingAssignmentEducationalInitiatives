@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.BehavioralPattern.MementoPattern;
+package CodingAssignment__.DesignPatterns.BehavioralPattern.MementoPattern;
 
 class Editor {
     private String text;

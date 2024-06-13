@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.CreationalPattern.FactoryPattern;
+package CodingAssignment__.DesignPatterns.CreationalPattern.FactoryPattern;
 
 class GooglePay implements PaymentMethod {
     @Override

@@ -1,4 +1,4 @@
-package CodingAssignmentEducationalInitiatives.DesignPatterns.BehavioralPattern.ObserverPattern;
+package CodingAssignment__.DesignPatterns.BehavioralPattern.ObserverPattern;
 import java.util.*;
 class StockMarketTicker implements StockMarket {
     private Map<String, Double> stockPrices = new HashMap<>();
